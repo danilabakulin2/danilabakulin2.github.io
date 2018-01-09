@@ -61,8 +61,7 @@ nav{
     height: 200px;
     background: #D3D3D3;
     padding: 0;
-    margin: 0 auto;
-    font-size: 
+    margin: 0 auto; 
 }
 .about{
     font-family: Arial , sans-serif;
@@ -70,5 +69,17 @@ nav{
     text-transform: uppercase;
     text-align: center;
     padding-top: 30px;
+    
+}
+@media(min-width:0) and (max-width:360) {
+    .downcase{
+        display: block;
+    width: 100%;
+    height: 200px;
+    background: #D3D3D3;
+    padding: 0;
+    margin: 0 auto; 
+    }
+
     
 }
