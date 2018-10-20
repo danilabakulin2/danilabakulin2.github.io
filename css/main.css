@@ -1,6 +1,6 @@
 header{
-    background: url(../img/first-bg.jpg) no-repeat center top;
-    height: 688px;
+    background: url(../img/anye.png) no-repeat center top;
+    height: 700px;
     font-family: Arial, sans-serif;
 }
 .clearfix{
@@ -57,21 +57,21 @@ nav{
 .porno{
     margin: 0 auto;
     display: block;
-    padding-top: 160px; 
+    padding-top: 0px; 
 }
 .downcase{
     width: 100%;
     height: 200px;
     background: #D3D3D3;
     padding: 0;
-    margin: 0 auto; 
+    margin: 0 ; 
 }
 .downcase:hover{
     width: 100%;
     height: 200px;
     background: #B5B5B5;
     padding: 0;
-    margin: 0 auto; 
+    margin: 0 ; 
 }
 .about{
     font-family: Arial , sans-serif;
